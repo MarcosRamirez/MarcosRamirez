@@ -1,8 +1,18 @@
-### Hi there 👋
+# Marcos Ramírez (Personal info)
+--
+🌆 Madrid - Spain 
+band
 🎂 February 3
 
+--
 
-[![Marcos Ramirez's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosRamirez)](https://github.com/anuraghazra/github-readme-stats)
+# 📖 Latest Blog posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
+-- 
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosRamirez)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MarcosRamirez/MarcosRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
