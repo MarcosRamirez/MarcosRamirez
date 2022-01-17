@@ -1,7 +1,7 @@
 # Marcos Ramírez (Personal info)
 --
+
 🌆 Madrid - Spain 
-band
 🎂 February 3
 
 --
@@ -10,6 +10,7 @@ band
 <!-- BLOGPOSTS:START -->
 <!-- BLOGPOSTS:END -->
 
+# GitHub Stats
 -- 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosRamirez)](https://github.com/anuraghazra/github-readme-stats)
