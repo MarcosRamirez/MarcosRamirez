@@ -8,7 +8,7 @@
 
 # 📖 Latest Blog posts
 <!-- BLOGPOSTS:START -->
-- [Como gestiono mis finanzas &lpar;1ª parte&rpar; Conceptos básicos](https://blog.marcosramirez.info/gestion-finanzas-b%C3%A1sica/)
+- [💰Como gestiono mis finanzas &lpar;1ª parte&rpar; Conceptos básicos](https://blog.marcosramirez.info/gestion-finanzas-b%C3%A1sica/)
 - [Te regalo más de 120€ 💸💸💸](https://blog.marcosramirez.info/regalo-dinero-gratis/)
 - [📆 Mis objetivos para año nuevo &lpar;2022 edition&rpar; ¿cuantos cumpliré?](https://blog.marcosramirez.info/objetivos-a%C3%B1o-nuevo-2022/)
 - [Aumenta la vida de tu portatil, tablet o similar con este simple LifeHack](https://blog.marcosramirez.info/aumenta-vida-bateria-portatil-tablet-lifehack/)
