@@ -45,7 +45,6 @@
 
 ![Stats](profile/stats.svg)
 ![Top Langs](profile/top-langs.svg)
-![Streak](profile/streak.svg)
 
 </div>
 
