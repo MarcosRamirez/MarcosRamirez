@@ -38,8 +38,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosRamirez&show_icons=true&theme=radical&count_private=true&hide_border=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosRamirez&layout=compact&theme=radical&hide_border=true&hide_title=true)
+![Stats](profile/stats.svg)
+![Top Langs](profile/top-langs.svg)
+![Streak](profile/streak.svg)
 
 </div>
 
