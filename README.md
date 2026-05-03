@@ -33,6 +33,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57060?style=flat&logo=proxmox&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D4A5FF?style=flat&logo=claude&logoColor=white)
 
 </div>
 
