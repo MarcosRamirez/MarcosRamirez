@@ -29,6 +29,10 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57060?style=flat&logo=proxmox&logoColor=white)
 
 </div>
 
