@@ -66,11 +66,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [YouTube eliminó el botón de cola en las miniaturas: solución](https://blog.marcosramirez.info/youtube-boton-cola-streamline/)
+- [OpenRouter: 500 modelos de Inteligencia Artificial en una API](https://blog.marcosramirez.info/openrouter-500-modelos-ia/)
+- [Cloudflare Pages está desapareciendo &lpar;y Workers sale ganando&rpar;](https://blog.marcosramirez.info/cloudflare-pages-dificil-encontrar/)
 - [Travian: el mejor juego de estrategia MMO que conozco a fondo](https://blog.marcosramirez.info/travian-estrategia-mmo/)
 - [10 trucos para que tu suscripción de Claude dure toda la semana](https://blog.marcosramirez.info/10-trucos-suscripcion-claude/)
-- [Cómo reducir el consumo de tokens en Claude Code y ahorrar dinero](https://blog.marcosramirez.info/reducir-consumo-tokens-claude-code/)
-- [La Inteligencia Artificial sube precios: los devs siguen ganando](https://blog.marcosramirez.info/ia-precios-suben-devs-ganan/)
-- [Crisis de confianza en Anthropic: qué pasó y cómo afecta a devs](https://blog.marcosramirez.info/anthropic-crisis-confianza-2026/)
 <!-- BLOGPOSTS:END -->
 
 ---
