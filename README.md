@@ -66,11 +66,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [⚠️ CVE-2026-3854: RCE crítico en el pipeline git de GitHub](https://blog.marcosramirez.info/cve-2026-3854-github-rce/)
+- [⚠️ CVE-2026-31431: escalada de privilegios en el kernel Linux](https://blog.marcosramirez.info/cve-2026-31431-linux-kernel/)
+- [Agent Skills: el estándar que enseña a tus agentes cómo trabajar](https://blog.marcosramirez.info/agent-skills-estandar-agentes/)
 - [YouTube eliminó el botón de cola en las miniaturas: solución](https://blog.marcosramirez.info/youtube-boton-cola-streamline/)
 - [OpenRouter: 500 modelos de Inteligencia Artificial en una API](https://blog.marcosramirez.info/openrouter-500-modelos-ia/)
-- [Cloudflare Pages está desapareciendo &lpar;y Workers sale ganando&rpar;](https://blog.marcosramirez.info/cloudflare-pages-dificil-encontrar/)
-- [Travian: el mejor juego de estrategia MMO que conozco a fondo](https://blog.marcosramirez.info/travian-estrategia-mmo/)
-- [10 trucos para que tu suscripción de Claude dure toda la semana](https://blog.marcosramirez.info/10-trucos-suscripcion-claude/)
 <!-- BLOGPOSTS:END -->
 
 ---
