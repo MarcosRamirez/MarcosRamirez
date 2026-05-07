@@ -66,11 +66,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [RouteLLM: routing automático de LLMs para profesionales](https://blog.marcosramirez.info/routellm-router-ia-automatico/)
 - [⚠️ CVE-2026-3854: RCE crítico en el pipeline git de GitHub](https://blog.marcosramirez.info/cve-2026-3854-github-rce/)
 - [⚠️ CVE-2026-31431: escalada de privilegios en el kernel Linux](https://blog.marcosramirez.info/cve-2026-31431-linux-kernel/)
 - [Agent Skills: el estándar que enseña a tus agentes cómo trabajar](https://blog.marcosramirez.info/agent-skills-estandar-agentes/)
 - [YouTube eliminó el botón de cola en las miniaturas: solución](https://blog.marcosramirez.info/youtube-boton-cola-streamline/)
-- [OpenRouter: 500 modelos de Inteligencia Artificial en una API](https://blog.marcosramirez.info/openrouter-500-modelos-ia/)
 <!-- BLOGPOSTS:END -->
 
 ---
