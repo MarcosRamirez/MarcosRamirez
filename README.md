@@ -66,11 +66,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Rutinas en Claude Code: automatización de tareas en la nube](https://blog.marcosramirez.info/claude-code-routines/)
 - [Monetizar tráfico de búsqueda: intención sobre resultados](https://blog.marcosramirez.info/monetizar-trafico-libro/)
 - [Por qué mantengo un cheatsheet.txt en todos mis proyectos](https://blog.marcosramirez.info/cheatsheet-comandos-desarrollo/)
 - [ChatLLM de Abacus.AI: Inteligencia Artificial todo en uno](https://blog.marcosramirez.info/chatllm-abacus-ai-profesional/)
 - [RouteLLM: routing automático de LLMs para profesionales](https://blog.marcosramirez.info/routellm-router-ia-automatico/)
-- [⚠️ CVE-2026-3854: RCE crítico en el pipeline git de GitHub](https://blog.marcosramirez.info/cve-2026-3854-github-rce/)
 <!-- BLOGPOSTS:END -->
 
 ---
