@@ -66,11 +66,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Travian II: granjeo, estrategia 7x7 y financiar tu 2ª aldea](https://blog.marcosramirez.info/travian-estrategia-mmo-parte-2/)
 - [Rutinas en Claude Code: automatización de tareas en la nube](https://blog.marcosramirez.info/claude-code-routines/)
 - [Monetizar tráfico de búsqueda: intención sobre resultados](https://blog.marcosramirez.info/monetizar-trafico-libro/)
 - [Por qué mantengo un cheatsheet.txt en todos mis proyectos](https://blog.marcosramirez.info/cheatsheet-comandos-desarrollo/)
 - [ChatLLM de Abacus.AI: Inteligencia Artificial todo en uno](https://blog.marcosramirez.info/chatllm-abacus-ai-profesional/)
-- [RouteLLM: routing automático de LLMs para profesionales](https://blog.marcosramirez.info/routellm-router-ia-automatico/)
 <!-- BLOGPOSTS:END -->
 
 ---
