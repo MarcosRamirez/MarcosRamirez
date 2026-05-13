@@ -66,11 +66,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [La Liga bloqueó mi blog: jamás he visto un partido de fútbol](https://blog.marcosramirez.info/tebas-bloqueo-ips-blog-inocentes/)
+- [OpenCode: Review Completa y Comparativa con sus Competidores](https://blog.marcosramirez.info/opencode-review-comparativa-competidores-2026/)
+- [Arr Stack vs FlexGet: automatiza tus descargas fácilmente](https://blog.marcosramirez.info/arr-stack-vs-flexget/)
 - [Travian II: granjeo, estrategia 7x7 y financiar tu 2ª aldea](https://blog.marcosramirez.info/travian-estrategia-mmo-parte-2/)
 - [Rutinas en Claude Code: automatización de tareas en la nube](https://blog.marcosramirez.info/claude-code-routines/)
-- [Monetizar tráfico de búsqueda: intención sobre resultados](https://blog.marcosramirez.info/monetizar-trafico-libro/)
-- [Por qué mantengo un cheatsheet.txt en todos mis proyectos](https://blog.marcosramirez.info/cheatsheet-comandos-desarrollo/)
-- [ChatLLM de Abacus.AI: Inteligencia Artificial todo en uno](https://blog.marcosramirez.info/chatllm-abacus-ai-profesional/)
 <!-- BLOGPOSTS:END -->
 
 ---
