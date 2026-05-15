@@ -66,11 +66,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [OpenCode: Manual Completo - Guía Definitiva del Agente de Coding](https://blog.marcosramirez.info/opencode-manual-completo-tutorial/)
 - [Mi decisión de usar Proxmox: virtualización seria para Home Lab](https://blog.marcosramirez.info/mi-decision-de-usar-proxmox/)
 - [La Liga bloqueó mi blog: jamás he visto un partido de fútbol](https://blog.marcosramirez.info/tebas-bloqueo-ips-blog-inocentes/)
 - [OpenCode: Review Completa y Comparativa con sus Competidores](https://blog.marcosramirez.info/opencode-review-comparativa-competidores-2026/)
 - [La regla 3-2-1 de backups: No perder tus datos nunca más](https://blog.marcosramirez.info/backup-3-2-1/)
-- [Arr Stack vs FlexGet: automatiza tus descargas fácilmente](https://blog.marcosramirez.info/arr-stack-vs-flexget/)
 <!-- BLOGPOSTS:END -->
 
 ---
