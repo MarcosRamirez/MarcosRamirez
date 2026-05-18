@@ -66,11 +66,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Travian 456.3: el héroe ya transfiere los recursos exactos](https://blog.marcosramirez.info/travian-heroe-recursos-construccion/)
+- [Travian III: expandiendo tu zona de granjeo más allá del 7x7](https://blog.marcosramirez.info/travian-estrategia-mmo-parte-3/)
+- [Estreno web: marcosramirez.dev, por fin como yo quería](https://blog.marcosramirez.info/nueva-web-marcosramirez-dev/)
 - [Frugalismo vs minimalismo: cómo vivir mejor gastando menos](https://blog.marcosramirez.info/frugalismo-vs-minimalismo/)
 - [OpenCode: Manual Completo - Guía Definitiva del Agente de Coding](https://blog.marcosramirez.info/opencode-manual-completo-tutorial/)
-- [Mi decisión de usar Proxmox: virtualización seria para Home Lab](https://blog.marcosramirez.info/mi-decision-de-usar-proxmox/)
-- [La Liga bloqueó mi blog: jamás he visto un partido de fútbol](https://blog.marcosramirez.info/tebas-bloqueo-ips-blog-inocentes/)
-- [OpenCode: Review Completa y Comparativa con sus Competidores](https://blog.marcosramirez.info/opencode-review-comparativa-competidores-2026/)
 <!-- BLOGPOSTS:END -->
 
 ---
