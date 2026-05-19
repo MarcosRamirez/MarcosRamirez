@@ -66,11 +66,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Racks y mini racks para Home Lab: guía de compra completa](https://blog.marcosramirez.info/racks-mini-racks-home-lab/)
+- [AdGuard Home: tu propio bloqueador de publicidad y el DNS](https://blog.marcosramirez.info/adguard-home-bloqueador-publicidad/)
 - [Travian 456.3: el héroe ya transfiere los recursos exactos](https://blog.marcosramirez.info/travian-heroe-recursos-construccion/)
 - [Travian III: expandiendo tu zona de granjeo más allá del 7x7](https://blog.marcosramirez.info/travian-estrategia-mmo-parte-3/)
 - [Estreno web: marcosramirez.dev, por fin como yo quería](https://blog.marcosramirez.info/nueva-web-marcosramirez-dev/)
-- [Frugalismo vs minimalismo: cómo vivir mejor gastando menos](https://blog.marcosramirez.info/frugalismo-vs-minimalismo/)
-- [OpenCode: Manual Completo - Guía Definitiva del Agente de Coding](https://blog.marcosramirez.info/opencode-manual-completo-tutorial/)
 <!-- BLOGPOSTS:END -->
 
 ---
