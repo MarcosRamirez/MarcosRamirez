@@ -66,11 +66,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
-- [Racks y mini racks para Home Lab: guía de compra completa](https://blog.marcosramirez.info/racks-mini-racks-home-lab/)
+- [El blog tiene cara nueva: he migrado de Jekyll a Astro](https://blog.marcosramirez.info/nuevo-blog-astro/)
+- [Git en Windows: renombrar un archivo cambiando solo el case](https://blog.marcosramirez.info/git-rename-case-windows/)
 - [AdGuard Home: tu propio bloqueador de publicidad y el DNS](https://blog.marcosramirez.info/adguard-home-bloqueador-publicidad/)
+- [Racks y mini racks para Home Lab: guía de compra completa](https://blog.marcosramirez.info/racks-mini-racks-home-lab/)
 - [Travian 456.3: el héroe ya transfiere los recursos exactos](https://blog.marcosramirez.info/travian-heroe-recursos-construccion/)
-- [Travian III: expandiendo tu zona de granjeo más allá del 7x7](https://blog.marcosramirez.info/travian-estrategia-mmo-parte-3/)
-- [Estreno web: marcosramirez.dev, por fin como yo quería](https://blog.marcosramirez.info/nueva-web-marcosramirez-dev/)
 <!-- BLOGPOSTS:END -->
 
 ---
