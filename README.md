@@ -66,11 +66,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Gemini 3.5 Flash en el I/O 2026: ¿merece la pena el cambio?](https://blog.marcosramirez.info/gemini-3-5-flash-agentes-voz/)
 - [El blog tiene cara nueva: he migrado de Jekyll a Astro](https://blog.marcosramirez.info/nuevo-blog-astro/)
 - [Git en Windows: renombrar un archivo cambiando solo el case](https://blog.marcosramirez.info/git-rename-case-windows/)
 - [AdGuard Home: tu propio bloqueador de publicidad y el DNS](https://blog.marcosramirez.info/adguard-home-bloqueador-publicidad/)
 - [Racks y mini racks para Home Lab: guía de compra completa](https://blog.marcosramirez.info/racks-mini-racks-home-lab/)
-- [Travian 456.3: el héroe ya transfiere los recursos exactos](https://blog.marcosramirez.info/travian-heroe-recursos-construccion/)
 <!-- BLOGPOSTS:END -->
 
 ---
