@@ -66,11 +66,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [⚠️ Claude lleva una semana cayéndose &lpar;y el status dice que todo va bien&rpar;](https://blog.marcosramirez.info/claude-caidas-mayo-2026/)
+- [De Cloudflare Pages a Workers con Astro: la guerra real](https://blog.marcosramirez.info/cloudflare-workers-astro-migracion/)
+- [Glass pads: probé el Razer Atlas Pro y no vuelvo a la tela](https://blog.marcosramirez.info/glass-pads-review-razer-atlas-pro/)
 - [De VAPI a Retell: la migración que se llevó media arquitectura](https://blog.marcosramirez.info/migracion-vapi-retell/)
 - [Gemini 3.5 Flash en el I/O 2026: ¿merece la pena el cambio?](https://blog.marcosramirez.info/gemini-3-5-flash-agentes-voz/)
-- [El blog tiene cara nueva: he migrado de Jekyll a Astro](https://blog.marcosramirez.info/nuevo-blog-astro/)
-- [Git en Windows: renombrar un archivo cambiando solo el case](https://blog.marcosramirez.info/git-rename-case-windows/)
-- [AdGuard Home: tu propio bloqueador de publicidad y el DNS](https://blog.marcosramirez.info/adguard-home-bloqueador-publicidad/)
 <!-- BLOGPOSTS:END -->
 
 ---
