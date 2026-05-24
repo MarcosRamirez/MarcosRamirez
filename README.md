@@ -66,11 +66,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Migré 112 posts de Jekyll a Astro 6 y esto es lo que rompió](https://blog.marcosramirez.info/migracion-jekyll-astro-6/)
 - [⚠️ Claude lleva una semana cayéndose &lpar;y el status dice que todo va bien&rpar;](https://blog.marcosramirez.info/claude-caidas-mayo-2026/)
 - [De Cloudflare Pages a Workers con Astro: la guerra real](https://blog.marcosramirez.info/cloudflare-workers-astro-migracion/)
 - [Glass pads: probé el Razer Atlas Pro y no vuelvo a la tela](https://blog.marcosramirez.info/glass-pads-review-razer-atlas-pro/)
 - [De VAPI a Retell: la migración que se llevó media arquitectura](https://blog.marcosramirez.info/migracion-vapi-retell/)
-- [Gemini 3.5 Flash en el I/O 2026: ¿merece la pena el cambio?](https://blog.marcosramirez.info/gemini-3-5-flash-agentes-voz/)
 <!-- BLOGPOSTS:END -->
 
 ---
