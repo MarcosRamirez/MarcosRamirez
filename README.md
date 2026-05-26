@@ -66,11 +66,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [La Inteligencia Artificial me devolvió la ilusión por programar](https://blog.marcosramirez.info/ia-devolvio-ilusion-programar/)
+- [Informe de vigilancia semanal &lpar;18 may–25 may&rpar;](https://blog.marcosramirez.info/trakt-log-2026-05-25/)
 - [Comandos básicos de Proxmox: gestión de LXC y VMs vía CLI](https://blog.marcosramirez.info/comandos-basicos-proxmox/)
 - [Por qué cayó Claude tanto en mayo de 2026: lo que encontré](https://blog.marcosramirez.info/por-que-cayo-claude-mayo-2026/)
 - [Migré 112 posts de Jekyll a Astro 6 y esto es lo que rompió](https://blog.marcosramirez.info/migracion-jekyll-astro-6/)
-- [⚠️ Claude lleva una semana cayéndose &lpar;y el status dice que todo va bien&rpar;](https://blog.marcosramirez.info/claude-caidas-mayo-2026/)
-- [De Cloudflare Pages a Workers con Astro: la guerra real](https://blog.marcosramirez.info/cloudflare-workers-astro-migracion/)
 <!-- BLOGPOSTS:END -->
 
 ---
