@@ -66,11 +66,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Cómo ahorrar en casa: pequeños cambios que multiplican tu dinero](https://blog.marcosramirez.info/ahorrar-en-casa-pequenos-cambios/)
+- [Mi sistema de espionaje semanal: Trakt y GitHub Actions](https://blog.marcosramirez.info/como-funciona-el-informe-de-vigilancia/)
 - [Las razones por las que no uso los helper scripts de Proxmox](https://blog.marcosramirez.info/no-uso-proxmox-helper-scripts/)
 - [La Inteligencia Artificial me devolvió la ilusión por programar](https://blog.marcosramirez.info/ia-devolvio-ilusion-programar/)
 - [Informe de vigilancia semanal &lpar;18 may–25 may&rpar;](https://blog.marcosramirez.info/trakt-log-2026-05-25/)
-- [Comandos básicos de Proxmox: gestión de LXC y VMs vía CLI](https://blog.marcosramirez.info/comandos-basicos-proxmox/)
-- [Por qué cayó Claude tanto en mayo de 2026: lo que encontré](https://blog.marcosramirez.info/por-que-cayo-claude-mayo-2026/)
 <!-- BLOGPOSTS:END -->
 
 ---
