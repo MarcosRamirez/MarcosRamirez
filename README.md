@@ -66,11 +66,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Warp abre su código fuente: lo que cambia para los devs](https://blog.marcosramirez.info/warp-terminal-open-source/)
 - [Dograh, Retell o VAPI: cuál elegir para tu agente de voz en 2026](https://blog.marcosramirez.info/comparativa-plataformas-agentes-voz/)
 - [Cómo ahorrar en casa: pequeños cambios que multiplican tu dinero](https://blog.marcosramirez.info/ahorrar-en-casa-pequenos-cambios/)
 - [Mi sistema de espionaje semanal: Trakt y GitHub Actions](https://blog.marcosramirez.info/como-funciona-el-informe-de-vigilancia/)
 - [Las razones por las que no uso los helper scripts de Proxmox](https://blog.marcosramirez.info/no-uso-proxmox-helper-scripts/)
-- [La Inteligencia Artificial me devolvió la ilusión por programar](https://blog.marcosramirez.info/ia-devolvio-ilusion-programar/)
 <!-- BLOGPOSTS:END -->
 
 ---
