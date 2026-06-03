@@ -66,11 +66,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [La Inteligencia Artificial me devolvió la ilusión por escribir](https://blog.marcosramirez.info/ia-devolvio-ilusion-escribir/)
 - [Jellyfin, Plex o Stremio: cuál elegir para tu servidor multimedia](https://blog.marcosramirez.info/jellyfin-plex-stremio-comparativa-2026/)
 - [Informe de vigilancia semanal &lpar;25 may–1 jun&rpar;](https://blog.marcosramirez.info/trakt-log-2026-06-01/)
 - [Análisis: Ataque a TanStack, por qué pnpm es más seguro que npm](https://blog.marcosramirez.info/ataque-tanstack-pnpm-seguridad/)
 - [He publicado mis skills para Claude Code en GitHub](https://blog.marcosramirez.info/claude-code-skills/)
-- [Warp abre su código fuente: lo que cambia para los devs](https://blog.marcosramirez.info/warp-terminal-open-source/)
 <!-- BLOGPOSTS:END -->
 
 ---
