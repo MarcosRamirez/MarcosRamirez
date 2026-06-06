@@ -66,11 +66,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [He cerrado el repositorio del blog. Te explico por qué.](https://blog.marcosramirez.info/repo-del-blog-ahora-privado/)
 - [MarkItDown: pasa cualquier documento a Markdown y ahorra tokens](https://blog.marcosramirez.info/markitdown/)
 - [Home Assistant: Tu cerebro de domótica en un solo lugar](https://blog.marcosramirez.info/home-assistant-guia-domotica/)
 - [La Inteligencia Artificial me devolvió la ilusión por escribir](https://blog.marcosramirez.info/ia-devolvio-ilusion-escribir/)
 - [Jellyfin, Plex o Stremio: cuál elegir para tu servidor multimedia](https://blog.marcosramirez.info/jellyfin-plex-stremio-comparativa-2026/)
-- [Informe de vigilancia semanal &lpar;25 may–1 jun&rpar;](https://blog.marcosramirez.info/trakt-log-2026-06-01/)
 <!-- BLOGPOSTS:END -->
 
 ---
