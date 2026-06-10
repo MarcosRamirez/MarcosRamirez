@@ -66,11 +66,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Transparencia salarial: ¿la nueva ley choca con tu privacidad?](https://blog.marcosramirez.info/transparencia-salarial-privacidad-rgpd/)
+- [40 de Mayo: 41 consejos frugales para combatir el calor](https://blog.marcosramirez.info/40-de-mayo-consejos-frugales-calor/)
 - [Immich: tus fotos privadas en el servidor, sin suscripción](https://blog.marcosramirez.info/immich-privacidad-tus-fotos/)
 - [Informe de vigilancia semanal &lpar;1 jun–8 jun&rpar;](https://blog.marcosramirez.info/trakt-log-2026-06-08/)
 - [Travian: estrategia ofensiva para los primeros días del servidor](https://blog.marcosramirez.info/travian-estrategia-ofensiva-primeros-dias/)
-- [Cómo conseguir que la Inteligencia Artificial no te discuta](https://blog.marcosramirez.info/como-conseguir-que-la-ia-no-me-discuta/)
-- [He cerrado el repositorio del blog. Te explico por qué.](https://blog.marcosramirez.info/repo-del-blog-ahora-privado/)
 <!-- BLOGPOSTS:END -->
 
 ---
