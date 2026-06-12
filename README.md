@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Claude Fable 5 y Mythos 5: el lanzamiento que cambia el listón](https://blog.marcosramirez.info/claude-fable-5-mythos-5/)
+- [La regla 3-2-1 de backups: No perder tus datos nunca más](https://blog.marcosramirez.info/backup-3-2-1/)
 - [Cosas que no necesitan nevera: ahorra electricidad y espacio](https://blog.marcosramirez.info/cosas-no-necesitan-nevera/)
 - [Transparencia salarial: ¿la nueva ley choca con tu privacidad?](https://blog.marcosramirez.info/transparencia-salarial-privacidad-rgpd/)
 - [40 de Mayo: 41 consejos frugales para combatir el calor](https://blog.marcosramirez.info/40-de-mayo-consejos-frugales-calor/)
-- [Immich: tus fotos privadas en el servidor, sin suscripción](https://blog.marcosramirez.info/immich-privacidad-tus-fotos/)
-- [Informe de vigilancia semanal &lpar;1 jun–8 jun&rpar;](https://blog.marcosramirez.info/trakt-log-2026-06-08/)
 <!-- BLOGPOSTS:END -->
 
 ---
