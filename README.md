@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Aprender copywriting gratis: recursos honestos y un reto](https://blog.marcosramirez.info/aprender-copywriting-gratis/)
+- [Claude Cowork: qué es y por qué regalo 3 invitaciones gratis](https://blog.marcosramirez.info/claude-cowork-regalo-invitaciones/)
 - [Soy un enfermo de los periféricos: ratón, bungee y teclado](https://blog.marcosramirez.info/perifericos-raton-agarre-bungee-teclado-mecanico/)
 - [Claude Fable 5 y Mythos 5: el lanzamiento que cambia el listón](https://blog.marcosramirez.info/claude-fable-5-mythos-5/)
 - [La regla 3-2-1 de backups: No perder tus datos nunca más](https://blog.marcosramirez.info/backup-3-2-1/)
-- [Cosas que no necesitan nevera: ahorra electricidad y espacio](https://blog.marcosramirez.info/cosas-no-necesitan-nevera/)
-- [Transparencia salarial: ¿la nueva ley choca con tu privacidad?](https://blog.marcosramirez.info/transparencia-salarial-privacidad-rgpd/)
 <!-- BLOGPOSTS:END -->
 
 ---
