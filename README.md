@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Verano financiero: tu plan de finanzas personales en 17 sábados](https://blog.marcosramirez.info/serie-finanzas-personales/)
+- [Travian: el héroe romano, guía de puntos y trucos avanzados](https://blog.marcosramirez.info/travian-heroe-romano-guia-trucos/)
+- [Fable 5 ha durado tres días: EEUU obliga a Anthropic a apagarlo](https://blog.marcosramirez.info/fable-5-suspendido-gobierno-eeuu/)
 - [Aprender copywriting gratis: recursos honestos y un reto](https://blog.marcosramirez.info/aprender-copywriting-gratis/)
 - [Claude Cowork: qué es y por qué regalo 3 invitaciones gratis](https://blog.marcosramirez.info/claude-cowork-regalo-invitaciones/)
-- [Soy un enfermo de los periféricos: ratón, bungee y teclado](https://blog.marcosramirez.info/perifericos-raton-agarre-bungee-teclado-mecanico/)
-- [Claude Fable 5 y Mythos 5: el lanzamiento que cambia el listón](https://blog.marcosramirez.info/claude-fable-5-mythos-5/)
-- [La regla 3-2-1 de backups: No perder tus datos nunca más](https://blog.marcosramirez.info/backup-3-2-1/)
 <!-- BLOGPOSTS:END -->
 
 ---
