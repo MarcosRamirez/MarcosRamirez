@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Firefly III: finanzas personales en tu servidor sin suscripciones](https://blog.marcosramirez.info/firefly-iii-finanzas/)
+- [Informe de vigilancia semanal &lpar;8 jun–15 jun&rpar;](https://blog.marcosramirez.info/trakt-log-2026-06-15/)
 - [Verano financiero: tu plan de finanzas personales en 17 sábados](https://blog.marcosramirez.info/serie-finanzas-personales/)
 - [Travian: el héroe romano, guía de puntos y trucos avanzados](https://blog.marcosramirez.info/travian-heroe-romano-guia-trucos/)
 - [Fable 5 ha durado tres días: EEUU obliga a Anthropic a apagarlo](https://blog.marcosramirez.info/fable-5-suspendido-gobierno-eeuu/)
-- [Aprender copywriting gratis: recursos honestos y un reto](https://blog.marcosramirez.info/aprender-copywriting-gratis/)
-- [Claude Cowork: qué es y por qué regalo 3 invitaciones gratis](https://blog.marcosramirez.info/claude-cowork-regalo-invitaciones/)
 <!-- BLOGPOSTS:END -->
 
 ---
