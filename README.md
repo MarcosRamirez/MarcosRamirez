@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Claude vuelve a fallar: errores en Opus 4.8 y Haiku 4.5](https://blog.marcosramirez.info/anthropic-claude-errores-opus-haiku/)
+- [Cómo elegir un robot aspirador-friegasuelos según tu casa](https://blog.marcosramirez.info/elegir-robot-aspirador-friegasuelos/)
+- [Horario de verano en Google Business Profile: que no te pille el toro](https://blog.marcosramirez.info/horario-verano-google-business-profile/)
 - [Firefly III: finanzas personales en tu servidor sin suscripciones](https://blog.marcosramirez.info/firefly-iii-finanzas/)
 - [Informe de vigilancia semanal &lpar;8 jun–15 jun&rpar;](https://blog.marcosramirez.info/trakt-log-2026-06-15/)
-- [Verano financiero: tu plan de finanzas personales en 17 sábados](https://blog.marcosramirez.info/serie-finanzas-personales/)
-- [Travian: el héroe romano, guía de puntos y trucos avanzados](https://blog.marcosramirez.info/travian-heroe-romano-guia-trucos/)
-- [Fable 5 ha durado tres días: EEUU obliga a Anthropic a apagarlo](https://blog.marcosramirez.info/fable-5-suspendido-gobierno-eeuu/)
 <!-- BLOGPOSTS:END -->
 
 ---
