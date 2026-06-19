@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
-- [¿Usas tu WhatsApp personal para hablar con clientes? La AEPD ya está multando](https://blog.marcosramirez.info/whatsapp-personal-clientes-problemas-legales/)
+- [Mantenimiento de Cloudflare el 22: cómo afecta a este blog](https://blog.marcosramirez.info/mantenimiento-cloudflare-22-junio/)
+- [Prime Day 2026: comprar inteligentemente y evitar falsos chollos](https://blog.marcosramirez.info/prime-day-2026-comprar-inteligente/)
+- [¿Usas WhatsApp personal con clientes? La AEPD ya está multando](https://blog.marcosramirez.info/whatsapp-personal-clientes-problemas-legales/)
 - [Claude vuelve a fallar: errores en Opus 4.8 y Haiku 4.5](https://blog.marcosramirez.info/anthropic-claude-errores-opus-haiku/)
 - [Cómo elegir un robot aspirador-friegasuelos según tu casa](https://blog.marcosramirez.info/elegir-robot-aspirador-friegasuelos/)
-- [Horario de verano en Google Business Profile: que no te pille el toro](https://blog.marcosramirez.info/horario-verano-google-business-profile/)
-- [Firefly III: finanzas personales en tu servidor sin suscripciones](https://blog.marcosramirez.info/firefly-iii-finanzas/)
 <!-- BLOGPOSTS:END -->
 
 ---
