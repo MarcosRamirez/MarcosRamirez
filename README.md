@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [No te endeudes nunca: la deuda mala que te roba años de vida](https://blog.marcosramirez.info/no-te-endeudes/)
+- [Agentes de Inteligencia Artificial: ¿te quitan el trabajo?](https://blog.marcosramirez.info/agentes-inteligencia-artificial-empresas/)
 - [Scrapling: el scraper de Python que se repara cuando la web cambia](https://blog.marcosramirez.info/scrapling-web-scraper-python/)
 - [Mantenimiento de Cloudflare el 22: cómo afecta a este blog](https://blog.marcosramirez.info/mantenimiento-cloudflare-22-junio/)
 - [Prime Day 2026: comprar inteligentemente y evitar falsos chollos](https://blog.marcosramirez.info/prime-day-2026-comprar-inteligente/)
-- [¿Usas WhatsApp personal con clientes? La AEPD ya está multando](https://blog.marcosramirez.info/whatsapp-personal-clientes-problemas-legales/)
-- [Claude vuelve a fallar: errores en Opus 4.8 y Haiku 4.5](https://blog.marcosramirez.info/anthropic-claude-errores-opus-haiku/)
 <!-- BLOGPOSTS:END -->
 
 ---
