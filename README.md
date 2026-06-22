@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Cómo un cron cada 15 minutos casi me cuesta 12 dólares en GitHub](https://blog.marcosramirez.info/cron-github-actions-doce-dolares/)
+- [Etiqueta en Travian: las reglas no escritas &lpar;y por qué importan&rpar;](https://blog.marcosramirez.info/travian-etiquette/)
 - [No te endeudes nunca: la deuda mala que te roba años de vida](https://blog.marcosramirez.info/no-te-endeudes/)
 - [Agentes de Inteligencia Artificial: ¿te quitan el trabajo?](https://blog.marcosramirez.info/agentes-inteligencia-artificial-empresas/)
 - [Scrapling: el scraper de Python que se repara cuando la web cambia](https://blog.marcosramirez.info/scrapling-web-scraper-python/)
-- [Mantenimiento de Cloudflare el 22: cómo afecta a este blog](https://blog.marcosramirez.info/mantenimiento-cloudflare-22-junio/)
-- [Prime Day 2026: comprar inteligentemente y evitar falsos chollos](https://blog.marcosramirez.info/prime-day-2026-comprar-inteligente/)
 <!-- BLOGPOSTS:END -->
 
 ---
