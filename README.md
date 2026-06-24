@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Spec Driven Development: Gherkin y las alternativas que importan](https://blog.marcosramirez.info/spec-driven-development-gherkin-alternativas/)
 - [AutoGen, MAF y AG2: el ecosistema multi-agente de Microsoft](https://blog.marcosramirez.info/autogen-maf-ag2-ecosistema-microsoft/)
 - [Cómo un cron cada 15 minutos casi me cuesta 12 dólares en GitHub](https://blog.marcosramirez.info/cron-github-actions-doce-dolares/)
 - [Etiqueta en Travian: las reglas no escritas &lpar;y por qué importan&rpar;](https://blog.marcosramirez.info/travian-etiquette/)
 - [No te endeudes nunca: la deuda mala que te roba años de vida](https://blog.marcosramirez.info/no-te-endeudes/)
-- [Agentes de Inteligencia Artificial: ¿te quitan el trabajo?](https://blog.marcosramirez.info/agentes-inteligencia-artificial-empresas/)
 <!-- BLOGPOSTS:END -->
 
 ---
