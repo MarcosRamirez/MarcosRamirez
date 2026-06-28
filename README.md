@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Cómo salir de deudas rápido: bola de nieve vs avalancha](https://blog.marcosramirez.info/salir-de-deudas-rapido/)
+- [El cron de GitHub Actions falla: lo arreglé con Cloudflare](https://blog.marcosramirez.info/github-actions-cron-cloudflare-trigger/)
 - [⚡ Por qué deberías usar pnpm en vez de npm y migrar hoy mismo](https://blog.marcosramirez.info/pnpm-vs-npm/)
 - [AdGuard Home en alta disponibilidad: Dos nodos con sincronización](https://blog.marcosramirez.info/adguard-home-alta-disponibilidad/)
 - [Apispain: los datos públicos de España en una API para devs](https://blog.marcosramirez.info/apispain-api-datos-publicos-espana/)
-- [Spec Driven Development: Gherkin y las alternativas que importan](https://blog.marcosramirez.info/spec-driven-development-gherkin-alternativas/)
-- [AutoGen, MAF y AG2: el ecosistema multi-agente de Microsoft](https://blog.marcosramirez.info/autogen-maf-ag2-ecosistema-microsoft/)
 <!-- BLOGPOSTS:END -->
 
 ---
