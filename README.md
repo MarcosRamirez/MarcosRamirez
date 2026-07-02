@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [⚠️ Verifactu 2027: un año para poner tus facturas en orden](https://blog.marcosramirez.info/verifactu-un-ano-plazo/)
 - [Vibe coding: la realidad de programar con Inteligencia Artificial](https://blog.marcosramirez.info/vibe-coding-inteligencia-artificial/)
 - [Paperless NGX: documentos digitales organizados y bajo control](https://blog.marcosramirez.info/paperless-ngx-documentos/)
 - [Automatizo la captura de ideas del blog en GitHub Issues](https://blog.marcosramirez.info/automatizar-ideas-blog-github-issues/)
 - [Cómo salir de deudas rápido: bola de nieve vs avalancha](https://blog.marcosramirez.info/salir-de-deudas-rapido/)
-- [El cron de GitHub Actions falla: lo arreglé con Cloudflare](https://blog.marcosramirez.info/github-actions-cron-cloudflare-trigger/)
 <!-- BLOGPOSTS:END -->
 
 ---
