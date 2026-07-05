@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Ganar más para salir de deudas antes: la palanca olvidada](https://blog.marcosramirez.info/ganar-mas-con-deudas/)
 - [Cal.com: que otros agenden reuniones contigo sin correos](https://blog.marcosramirez.info/cal-com-agendar-reuniones/)
 - [GTD y time blocking: aprende a ver tu tiempo en el calendario](https://blog.marcosramirez.info/gestion-tiempo-gtd-calendario/)
 - [⚠️ Verifactu 2027: un año para poner tus facturas en orden](https://blog.marcosramirez.info/verifactu-un-ano-plazo/)
 - [Vibe coding: la realidad de programar con Inteligencia Artificial](https://blog.marcosramirez.info/vibe-coding-inteligencia-artificial/)
-- [Paperless NGX: documentos digitales organizados y bajo control](https://blog.marcosramirez.info/paperless-ngx-documentos/)
 <!-- BLOGPOSTS:END -->
 
 ---
