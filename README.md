@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [SearXNG: buscador privado y sin rastreos en tu servidor](https://blog.marcosramirez.info/searxng-buscador-privado/)
+- [Informe de vigilancia semanal &lpar;29 jun–6 jul&rpar;](https://blog.marcosramirez.info/trakt-log-2026-07-06/)
 - [La Inteligencia Artificial escribe los borradores del blog](https://blog.marcosramirez.info/automatizar-borradores-blog/)
 - [Ganar más para salir de deudas antes: la palanca olvidada](https://blog.marcosramirez.info/ganar-mas-con-deudas/)
 - [Cal.com: que otros agenden reuniones contigo sin correos](https://blog.marcosramirez.info/cal-com-agendar-reuniones/)
-- [GTD y time blocking: aprende a ver tu tiempo en el calendario](https://blog.marcosramirez.info/gestion-tiempo-gtd-calendario/)
-- [⚠️ Verifactu 2027: un año para poner tus facturas en orden](https://blog.marcosramirez.info/verifactu-un-ano-plazo/)
 <!-- BLOGPOSTS:END -->
 
 ---
