@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Cómo calcular el precio de tus servicios siendo emprendedor](https://blog.marcosramirez.info/calcular-precio-bienes-servicios/)
 - [El hielo en hostelería: por qué casi nadie tiene ya máquina](https://blog.marcosramirez.info/hielo-hosteleria-maquina-vs-bolsa/)
 - [Cuidado con los vendedores de humo de Inteligencia Artificial](https://blog.marcosramirez.info/vendedores-de-humo-inteligencia-artificial/)
 - [FutureLink: enlazar en Astro posts que aún no has publicado](https://blog.marcosramirez.info/futurelink-componente-astro/)
 - [SearXNG: buscador privado y sin rastreos en tu servidor](https://blog.marcosramirez.info/searxng-buscador-privado/)
-- [Informe de vigilancia semanal &lpar;29 jun–6 jul&rpar;](https://blog.marcosramirez.info/trakt-log-2026-07-06/)
 <!-- BLOGPOSTS:END -->
 
 ---
