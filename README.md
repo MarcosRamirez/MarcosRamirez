@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Por qué no compito a precio &lpar;y por qué tú tampoco deberías&rpar;](https://blog.marcosramirez.info/no-compito-a-precio/)
 - [La regla 50/30/20 y sus variantes: por qué uso el 50/40/10](https://blog.marcosramirez.info/regla-50-30-20/)
 - [Cómo calcular el precio de tus servicios siendo emprendedor](https://blog.marcosramirez.info/calcular-precio-bienes-servicios/)
 - [El hielo en hostelería: por qué casi nadie tiene ya máquina](https://blog.marcosramirez.info/hielo-hosteleria-maquina-vs-bolsa/)
 - [Cuidado con los vendedores de humo de Inteligencia Artificial](https://blog.marcosramirez.info/vendedores-de-humo-inteligencia-artificial/)
-- [FutureLink: enlazar en Astro posts que aún no has publicado](https://blog.marcosramirez.info/futurelink-componente-astro/)
 <!-- BLOGPOSTS:END -->
 
 ---
