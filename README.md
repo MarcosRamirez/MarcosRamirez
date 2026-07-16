@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Por qué todos los billetes y monedas del euro suman 888,88€](https://blog.marcosramirez.info/billetes-monedas-euro-888/)
 - [🔧 OpenClaude: usa Claude Code gratis con cualquier modelo](https://blog.marcosramirez.info/openclaude-fork-claude-code/)
 - [Vaultwarden: contraseñas seguras en tu servidor, sin pagos](https://blog.marcosramirez.info/vaultwarden-contrase%C3%B1as-seguras/)
 - [Por qué no compito a precio &lpar;y por qué tú tampoco deberías&rpar;](https://blog.marcosramirez.info/no-compito-a-precio/)
 - [La regla 50/30/20 y sus variantes: por qué uso el 50/40/10](https://blog.marcosramirez.info/regla-50-30-20/)
-- [Cómo calcular el precio de tus servicios siendo emprendedor](https://blog.marcosramirez.info/calcular-precio-bienes-servicios/)
 <!-- BLOGPOSTS:END -->
 
 ---
