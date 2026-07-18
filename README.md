@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [La importancia de los procedimientos, en la empresa y en casa](https://blog.marcosramirez.info/importancia-de-los-procedimientos/)
 - [Mi año con SantéVet: reembolsos reales y te regalo 2 meses](https://blog.marcosramirez.info/seguro-mascotas-santevet/)
 - [Cómo desviar las llamadas del móvil al fijo cuando estás en casa](https://blog.marcosramirez.info/desviar-llamadas-movil-fijo-casa/)
 - [Por qué todos los billetes y monedas del euro suman 888,88€](https://blog.marcosramirez.info/billetes-monedas-euro-888/)
 - [🔧 OpenClaude: usa Claude Code gratis con cualquier modelo](https://blog.marcosramirez.info/openclaude-fork-claude-code/)
-- [Vaultwarden: contraseñas seguras en tu servidor, sin pagos](https://blog.marcosramirez.info/vaultwarden-contrase%C3%B1as-seguras/)
 <!-- BLOGPOSTS:END -->
 
 ---
