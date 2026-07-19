@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Un café en el bar es un lujo &lpar;aunque cueste menos de 2€&rpar;](https://blog.marcosramirez.info/un-cafe-es-un-lujo/)
 - [La importancia de los procedimientos, en la empresa y en casa](https://blog.marcosramirez.info/importancia-de-los-procedimientos/)
 - [Mi año con SantéVet: reembolsos reales y te regalo 2 meses](https://blog.marcosramirez.info/seguro-mascotas-santevet/)
 - [Cómo desviar las llamadas del móvil al fijo cuando estás en casa](https://blog.marcosramirez.info/desviar-llamadas-movil-fijo-casa/)
 - [Por qué todos los billetes y monedas del euro suman 888,88€](https://blog.marcosramirez.info/billetes-monedas-euro-888/)
-- [🔧 OpenClaude: usa Claude Code gratis con cualquier modelo](https://blog.marcosramirez.info/openclaude-fork-claude-code/)
 <!-- BLOGPOSTS:END -->
 
 ---
