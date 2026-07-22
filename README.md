@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Qué es la inferencia en Inteligencia Artificial y por qué importa](https://blog.marcosramirez.info/que-es-la-inferencia/)
 - [OpenCode: el asistente de código abierto para developers](https://blog.marcosramirez.info/opencode-asistente-codigo/)
 - [Sharenting: la privacidad que le robas a tu hijo en las redes](https://blog.marcosramirez.info/sharenting-privacidad-hijos/)
 - [Un café en el bar es un lujo &lpar;aunque cueste menos de 2€&rpar;](https://blog.marcosramirez.info/un-cafe-es-un-lujo/)
 - [La importancia de los procedimientos, en la empresa y en casa](https://blog.marcosramirez.info/importancia-de-los-procedimientos/)
-- [Mi año con SantéVet: reembolsos reales y te regalo 2 meses](https://blog.marcosramirez.info/seguro-mascotas-santevet/)
 <!-- BLOGPOSTS:END -->
 
 ---
