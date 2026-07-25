@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Los canales y webs de tecnología que sí recomiendo de verdad](https://blog.marcosramirez.info/canales-recomendados-tecnologia/)
 - [Hyperframes: crea vídeos escribiendo HTML, CSS y JavaScript](https://blog.marcosramirez.info/hyperframes-videos-html-css-js/)
 - [NotebookLM: el cuaderno con Inteligencia Artificial de Google](https://blog.marcosramirez.info/que-es-notebooklm-google/)
 - [Qué es la inferencia en Inteligencia Artificial y por qué importa](https://blog.marcosramirez.info/que-es-la-inferencia/)
 - [OpenCode: el asistente de código abierto para developers](https://blog.marcosramirez.info/opencode-asistente-codigo/)
-- [Sharenting: la privacidad que le robas a tu hijo en las redes](https://blog.marcosramirez.info/sharenting-privacidad-hijos/)
 <!-- BLOGPOSTS:END -->
 
 ---
