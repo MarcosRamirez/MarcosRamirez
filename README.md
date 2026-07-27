@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Por qué no compro fruta ni carne fresca en el supermercado](https://blog.marcosramirez.info/fruta-carne-super-vs-barrio/)
 - [Gastos hormiga y suscripciones zombie: las fugas que no ves](https://blog.marcosramirez.info/gastos-hormiga-suscripciones-zombie/)
 - [Los canales y webs de tecnología que sí recomiendo de verdad](https://blog.marcosramirez.info/canales-recomendados-tecnologia/)
 - [Hyperframes: crea vídeos escribiendo HTML, CSS y JavaScript](https://blog.marcosramirez.info/hyperframes-videos-html-css-js/)
 - [NotebookLM: el cuaderno con Inteligencia Artificial de Google](https://blog.marcosramirez.info/que-es-notebooklm-google/)
-- [Qué es la inferencia en Inteligencia Artificial y por qué importa](https://blog.marcosramirez.info/que-es-la-inferencia/)
 <!-- BLOGPOSTS:END -->
 
 ---
