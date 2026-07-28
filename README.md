@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Ansible: cómo automatizar tu Home Lab de principio a fin](https://blog.marcosramirez.info/automatizacion-ansible-homelab/)
 - [Por qué no compro fruta ni carne fresca en el supermercado](https://blog.marcosramirez.info/fruta-carne-super-vs-barrio/)
 - [Gastos hormiga y suscripciones zombie: las fugas que no ves](https://blog.marcosramirez.info/gastos-hormiga-suscripciones-zombie/)
 - [Los canales y webs de tecnología que sí recomiendo de verdad](https://blog.marcosramirez.info/canales-recomendados-tecnologia/)
 - [Hyperframes: crea vídeos escribiendo HTML, CSS y JavaScript](https://blog.marcosramirez.info/hyperframes-videos-html-css-js/)
-- [NotebookLM: el cuaderno con Inteligencia Artificial de Google](https://blog.marcosramirez.info/que-es-notebooklm-google/)
 <!-- BLOGPOSTS:END -->
 
 ---
