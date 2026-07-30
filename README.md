@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
-- [Microsoft Build 2026: las novedades que importan a programadores](https://blog.marcosramirez.info/microsoft-build-2026-programadores/)
-- [Ansible: cómo automatizar tu Home Lab de principio a fin](https://blog.marcosramirez.info/automatizacion-ansible-homelab/)
-- [Por qué no compro fruta ni carne fresca en el supermercado](https://blog.marcosramirez.info/fruta-carne-super-vs-barrio/)
-- [Gastos hormiga y suscripciones zombie: las fugas que no ves](https://blog.marcosramirez.info/gastos-hormiga-suscripciones-zombie/)
-- [Los canales y webs de tecnología que sí recomiendo de verdad](https://blog.marcosramirez.info/canales-recomendados-tecnologia/)
+- [📰 ¿Va China a cerrar sus modelos de Inteligencia Artificial?](https://blog.marcosramirez.info/china-cerrar-modelos-ia-abiertos/)
+- [📰 Sony va a borrarte 551 películas que ya habías pagado](https://blog.marcosramirez.info/sony-borra-peliculas-playstation-store/)
+- [📰 Llega QUERY: el método HTTP que evita fingir con POST](https://blog.marcosramirez.info/http-query-nuevo-metodo-rfc/)
+- [📰 Malware se coló en mapas de Meccha Chameleon vía Steam](https://blog.marcosramirez.info/meccha-chameleon-malware-steam/)
+- [📰 Kimi K3: el modelo abierto que planta cara a los grandes](https://blog.marcosramirez.info/kimi-k3-modelo-abierto/)
 <!-- BLOGPOSTS:END -->
 
 ---
