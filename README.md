@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
-- [📰 ¿Va China a cerrar sus modelos de Inteligencia Artificial?](https://blog.marcosramirez.info/china-cerrar-modelos-ia-abiertos/)
-- [📰 Sony va a borrarte 551 películas que ya habías pagado](https://blog.marcosramirez.info/sony-borra-peliculas-playstation-store/)
-- [📰 Llega QUERY: el método HTTP que evita fingir con POST](https://blog.marcosramirez.info/http-query-nuevo-metodo-rfc/)
-- [📰 Malware se coló en mapas de Meccha Chameleon vía Steam](https://blog.marcosramirez.info/meccha-chameleon-malware-steam/)
-- [📰 Kimi K3: el modelo abierto que planta cara a los grandes](https://blog.marcosramirez.info/kimi-k3-modelo-abierto/)
+- [📰 Un modelo de OpenAI dejó notas para escapar de su jaula](https://blog.marcosramirez.info/modelo-openai-notas-escapar-sandbox/)
+- [📰 El metro de Madrid ya mueve paquetes para reducir tráfico](https://blog.marcosramirez.info/metro-madrid-reparto-paquetes/)
+- [📰 Por qué Anthropic destruye millones de libros &lpar;y es legal&rpar;](https://blog.marcosramirez.info/anthropic-destruye-libros-entrenar-ia/)
+- [📰 Nvidia lidera la carta open-weight, Anthropic no firma](https://blog.marcosramirez.info/carta-open-weight-contra-anthropic/)
+- [📰 Impeccable: el skill gratis que acaba con el &quot;AI Slop&quot;](https://blog.marcosramirez.info/impeccable-skill-ai-slop/)
 <!-- BLOGPOSTS:END -->
 
 ---
