@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [BIOS y UEFI: qué son, en qué se diferencian y cuál tienes](https://blog.marcosramirez.info/bios-uefi-diferencias-cual-mejor/)
+- [📰 La UE prepara verificar la edad de 370 millones de adultos](https://blog.marcosramirez.info/verificacion-edad-ue-adultos/)
 - [📰 Un modelo de OpenAI dejó notas para escapar de su jaula](https://blog.marcosramirez.info/modelo-openai-notas-escapar-sandbox/)
 - [📰 El metro de Madrid ya mueve paquetes para reducir tráfico](https://blog.marcosramirez.info/metro-madrid-reparto-paquetes/)
 - [📰 Por qué Anthropic destruye millones de libros &lpar;y es legal&rpar;](https://blog.marcosramirez.info/anthropic-destruye-libros-entrenar-ia/)
-- [📰 Nvidia lidera la carta open-weight, Anthropic no firma](https://blog.marcosramirez.info/carta-open-weight-contra-anthropic/)
-- [📰 Impeccable: el skill gratis que acaba con el &quot;AI Slop&quot;](https://blog.marcosramirez.info/impeccable-skill-ai-slop/)
 <!-- BLOGPOSTS:END -->
 
 ---
