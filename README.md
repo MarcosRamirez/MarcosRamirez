@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
-- [BIOS y UEFI: qué son, en qué se diferencian y cuál tienes](https://blog.marcosramirez.info/bios-uefi-diferencias-cual-mejor/)
-- [📰 La UE prepara verificar la edad de 370 millones de adultos](https://blog.marcosramirez.info/verificacion-edad-ue-adultos/)
-- [📰 Un modelo de OpenAI dejó notas para escapar de su jaula](https://blog.marcosramirez.info/modelo-openai-notas-escapar-sandbox/)
-- [📰 El metro de Madrid ya mueve paquetes para reducir tráfico](https://blog.marcosramirez.info/metro-madrid-reparto-paquetes/)
-- [📰 Por qué Anthropic destruye millones de libros &lpar;y es legal&rpar;](https://blog.marcosramirez.info/anthropic-destruye-libros-entrenar-ia/)
+- [📰 Los 3 Claude Skills gratis con más estrellas en GitHub](https://blog.marcosramirez.info/claude-skills-gratis-populares-github/)
+- [📰 Un agente de OpenAI hackeó Hugging Face sin control humano](https://blog.marcosramirez.info/openai-agente-hackeo-hugging-face/)
+- [Cómo calcular el valor real de las cosas &lpar;y el de tu coche&rpar;](https://blog.marcosramirez.info/valor-real-de-las-cosas/)
+- [📰 ¿Sigues usando Swagger? Scalar ya le está ganando terreno](https://blog.marcosramirez.info/scalar-alternativa-swagger/)
+- [📰 Uncle Bob ya no revisa el código que escriben sus agentes](https://blog.marcosramirez.info/uncle-bob-no-revisa-codigo/)
 <!-- BLOGPOSTS:END -->
 
 ---
