@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [📰 Claude hackeó 3 empresas reales: el error fue humano](https://blog.marcosramirez.info/claude-hackeo-empresas-error-humano/)
+- [Por qué compro en el barrio y pago en efectivo siempre que puedo](https://blog.marcosramirez.info/comprar-barrio-pagar-efectivo/)
 - [📰 Los 3 Claude Skills gratis con más estrellas en GitHub](https://blog.marcosramirez.info/claude-skills-gratis-populares-github/)
 - [📰 Un agente de OpenAI hackeó Hugging Face sin control humano](https://blog.marcosramirez.info/openai-agente-hackeo-hugging-face/)
 - [Cómo calcular el valor real de las cosas &lpar;y el de tu coche&rpar;](https://blog.marcosramirez.info/valor-real-de-las-cosas/)
-- [📰 ¿Sigues usando Swagger? Scalar ya le está ganando terreno](https://blog.marcosramirez.info/scalar-alternativa-swagger/)
-- [📰 Uncle Bob ya no revisa el código que escriben sus agentes](https://blog.marcosramirez.info/uncle-bob-no-revisa-codigo/)
 <!-- BLOGPOSTS:END -->
 
 ---
