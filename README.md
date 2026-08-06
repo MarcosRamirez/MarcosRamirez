@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Liberar RAM en Windows: el ajuste viral de SysMain y Prefetch](https://blog.marcosramirez.info/liberar-ram-windows-sysmain-prefetch/)
 - [Tu gestor de contraseñas perfecto vive en la terminal: pass](https://blog.marcosramirez.info/gestor-contrasenas-terminal-pass/)
 - [Las 6 estrategias del creador de Claude Code para tus proyectos](https://blog.marcosramirez.info/estrategias-creador-claude-code/)
 - [📰 GOG preserva juegos clásicos de PC para sistemas modernos](https://blog.marcosramirez.info/gog-preserva-juegos-clasicos-sistemas-modernos/)
 - [📰 Claude hackeó 3 empresas reales: el error fue humano](https://blog.marcosramirez.info/claude-hackeo-empresas-error-humano/)
-- [Por qué compro en el barrio y pago en efectivo siempre que puedo](https://blog.marcosramirez.info/comprar-barrio-pagar-efectivo/)
 <!-- BLOGPOSTS:END -->
 
 ---
