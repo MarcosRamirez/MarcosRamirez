@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Crea y edita workflows de n8n con agentes y su MCP oficial](https://blog.marcosramirez.info/n8n-workflows-agentes-mcp/)
 - [🛑 Apago el log de Trakt: adiós a su acceso gratuito y a mi bot](https://blog.marcosramirez.info/desactivo-trakt-cambio-politica-api/)
 - [Cómo dejé de chocar con los límites de uso de Claude Code](https://blog.marcosramirez.info/limites-uso-claude-code/)
 - [Liberar RAM en Windows: el ajuste viral de SysMain y Prefetch](https://blog.marcosramirez.info/liberar-ram-windows-sysmain-prefetch/)
 - [Tu gestor de contraseñas perfecto vive en la terminal: pass](https://blog.marcosramirez.info/gestor-contrasenas-terminal-pass/)
-- [Las 6 estrategias del creador de Claude Code para tus proyectos](https://blog.marcosramirez.info/estrategias-creador-claude-code/)
 <!-- BLOGPOSTS:END -->
 
 ---
