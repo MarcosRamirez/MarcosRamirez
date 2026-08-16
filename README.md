@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
-- [Open Notebook: la alternativa self-hosted y abierta a NotebookLM](https://blog.marcosramirez.info/open-notebook-alternativa-notebooklm/)
-- [La mentira de los juegos nextgen: por qué ya no sorprenden](https://blog.marcosramirez.info/mentira-juegos-nextgen/)
-- [Comprar, alquilar o renting: qué sale a cuenta de verdad](https://blog.marcosramirez.info/comprar-vs-alquilar-renting/)
-- [Crea y edita workflows de n8n con agentes y su MCP oficial](https://blog.marcosramirez.info/n8n-workflows-agentes-mcp/)
-- [🛑 Apago el log de Trakt: adiós a su acceso gratuito y a mi bot](https://blog.marcosramirez.info/desactivo-trakt-cambio-politica-api/)
+- [Presupuestos y apps: ver de verdad en qué se va tu dinero](https://blog.marcosramirez.info/presupuestos-y-apps/)
+- [Qué son los WebSockets y por qué no son HTTP más rápido](https://blog.marcosramirez.info/que-son-websockets-http/)
+- [Harness engineering: por qué el entorno importa más que el modelo](https://blog.marcosramirez.info/que-es-harness-engineering/)
+- [Cómo usar Inteligencia Artificial para programar gastando poco](https://blog.marcosramirez.info/programar-inteligencia-artificial-barato/)
+- [OpenCode y Graphify: deja de malgastar tokens releyendo tu código](https://blog.marcosramirez.info/opencode-graphify-tokens/)
 <!-- BLOGPOSTS:END -->
 
 ---
