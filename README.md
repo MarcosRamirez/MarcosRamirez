@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
-- [📰 Recopilación semanal de noticias tech &lpar;16 ago&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-08-16/)
+- [El setup de Zsh perfecto para 2026: rápido y sin frameworks](https://blog.marcosramirez.info/setup-zsh-terminal-2026/)
+- [📰 Noticias y otras cosas interesantes &lpar;16 ago&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-08-16/)
 - [Routines de Claude Code: automatiza sin el ordenador encendido](https://blog.marcosramirez.info/routines-claude-code-automatizar/)
 - [Presupuestos y apps: ver de verdad en qué se va tu dinero](https://blog.marcosramirez.info/presupuestos-y-apps/)
 - [Qué son los WebSockets y por qué no son HTTP más rápido](https://blog.marcosramirez.info/que-son-websockets-http/)
-- [Harness engineering: por qué el entorno importa más que el modelo](https://blog.marcosramirez.info/que-es-harness-engineering/)
 <!-- BLOGPOSTS:END -->
 
 ---
