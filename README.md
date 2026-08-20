@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [VPN: del trabajo remoto al gran negocio de vender miedo](https://blog.marcosramirez.info/vpn-evolucion-negocio-privacidad/)
 - [Por qué un ingeniero veterano vive creando skills para agentes](https://blog.marcosramirez.info/skills-claude-code-uso-diario/)
 - [El setup de Zsh perfecto para 2026: rápido y sin frameworks](https://blog.marcosramirez.info/setup-zsh-terminal-2026/)
 - [📰 Noticias y otras cosas interesantes &lpar;16 ago&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-08-16/)
 - [Routines de Claude Code: automatiza sin el ordenador encendido](https://blog.marcosramirez.info/routines-claude-code-automatizar/)
-- [Presupuestos y apps: ver de verdad en qué se va tu dinero](https://blog.marcosramirez.info/presupuestos-y-apps/)
 <!-- BLOGPOSTS:END -->
 
 ---
