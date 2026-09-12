@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [18 días sin desplegar: la autopsia del build de mi blog](https://blog.marcosramirez.info/optimizar-build-cloudflare-workers/)
 - [📰 Noticias y otras cosas interesantes &lpar;6 sep&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-09-06/)
 - [Activos y pasivos: la diferencia que te hace rico o pobre](https://blog.marcosramirez.info/activos-vs-pasivos/)
 - [📰 Noticias y otras cosas interesantes &lpar;30 ago&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-08-30/)
 - [Cambiar de banco es tan fácil como la portabilidad del móvil](https://blog.marcosramirez.info/cambiar-de-banco-portabilidad/)
-- [Recuerda revertir el horario de verano en Google Business](https://blog.marcosramirez.info/recordatorio-revertir-horario-verano/)
 <!-- BLOGPOSTS:END -->
 
 ---
