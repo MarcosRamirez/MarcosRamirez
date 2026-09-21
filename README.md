@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [📰 Noticias y otras cosas interesantes &lpar;20 sep&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-09-20/)
 - [Ingresos pasivos: qué es verdad y qué te están vendiendo](https://blog.marcosramirez.info/ingresos-pasivos-realidad/)
 - [📰 Noticias y otras cosas interesantes &lpar;13 sep&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-09-13/)
 - [Múltiples fuentes de ingresos: no dependas de una nómina](https://blog.marcosramirez.info/multiples-fuentes-de-ingresos/)
 - [18 días sin desplegar: la autopsia del build de mi blog](https://blog.marcosramirez.info/optimizar-build-cloudflare-workers/)
-- [📰 Noticias y otras cosas interesantes &lpar;6 sep&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-09-06/)
 <!-- BLOGPOSTS:END -->
 
 ---
