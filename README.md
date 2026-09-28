@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [📰 Noticias y otras cosas interesantes &lpar;27 sep&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-09-27/)
 - [Inflación: por qué tu dinero parado pierde valor cada año](https://blog.marcosramirez.info/inflacion-dinero-parado/)
 - [📰 Noticias y otras cosas interesantes &lpar;20 sep&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-09-20/)
 - [Ingresos pasivos: qué es verdad y qué te están vendiendo](https://blog.marcosramirez.info/ingresos-pasivos-realidad/)
 - [📰 Noticias y otras cosas interesantes &lpar;13 sep&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-09-13/)
-- [Múltiples fuentes de ingresos: no dependas de una nómina](https://blog.marcosramirez.info/multiples-fuentes-de-ingresos/)
 <!-- BLOGPOSTS:END -->
 
 ---
