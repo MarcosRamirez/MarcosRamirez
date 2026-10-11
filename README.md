@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [La fiscalidad del ahorro y la inversión en España en 2026](https://blog.marcosramirez.info/fiscalidad-ahorro-inversion-espana/)
+- [Mi gato me destrozó el dedo, y el culpable no fue mi gato](https://blog.marcosramirez.info/gato-ataxia-mordedura-dedo/)
 - [📰 Noticias y otras cosas interesantes &lpar;4 oct&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-10-04/)
 - [Cómo empezar a invertir desde cero: lo básico, sin gurús](https://blog.marcosramirez.info/como-empezar-a-invertir/)
 - [📰 Noticias y otras cosas interesantes &lpar;27 sep&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-09-27/)
-- [Inflación: por qué tu dinero parado pierde valor cada año](https://blog.marcosramirez.info/inflacion-dinero-parado/)
-- [📰 Noticias y otras cosas interesantes &lpar;20 sep&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-09-20/)
 <!-- BLOGPOSTS:END -->
 
 ---
