@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
-- [La fiscalidad del ahorro y la inversión en España en 2026](https://blog.marcosramirez.info/fiscalidad-ahorro-inversion-espana/)
+- [Hispanos, no latinos: quién inventó la palabra y para qué](https://blog.marcosramirez.info/hispanos-no-latinos/)
+- [Ajedrez electrónico: qué tablero comprar según nivel y precio](https://blog.marcosramirez.info/ajedrez-electronico-que-tablero-comprar/)
+- [📰 Noticias y otras cosas interesantes &lpar;11 oct&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-10-11/)
 - [Mi gato me destrozó el dedo, y el culpable no fue mi gato](https://blog.marcosramirez.info/gato-ataxia-mordedura-dedo/)
-- [📰 Noticias y otras cosas interesantes &lpar;4 oct&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-10-04/)
-- [Cómo empezar a invertir desde cero: lo básico, sin gurús](https://blog.marcosramirez.info/como-empezar-a-invertir/)
-- [📰 Noticias y otras cosas interesantes &lpar;27 sep&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-09-27/)
+- [La fiscalidad del ahorro y la inversión en España en 2026](https://blog.marcosramirez.info/fiscalidad-ahorro-inversion-espana/)
 <!-- BLOGPOSTS:END -->
 
 ---
