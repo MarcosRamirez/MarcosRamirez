@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [La diferencia real entre un tonto, un idiota y un imbécil](https://blog.marcosramirez.info/diferencia-tonto-idiota-imbecil/)
 - [Hispanos, no latinos: quién inventó la palabra y para qué](https://blog.marcosramirez.info/hispanos-no-latinos/)
 - [Ajedrez electrónico: qué tablero comprar según nivel y precio](https://blog.marcosramirez.info/ajedrez-electronico-que-tablero-comprar/)
 - [📰 Noticias y otras cosas interesantes &lpar;11 oct&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-10-11/)
 - [Mi gato me destrozó el dedo, y el culpable no fue mi gato](https://blog.marcosramirez.info/gato-ataxia-mordedura-dedo/)
-- [La fiscalidad del ahorro y la inversión en España en 2026](https://blog.marcosramirez.info/fiscalidad-ahorro-inversion-espana/)
 <!-- BLOGPOSTS:END -->
 
 ---
