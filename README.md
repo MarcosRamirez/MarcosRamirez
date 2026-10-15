@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [El error neurobiológico que te hace fracasar al dejar de fumar](https://blog.marcosramirez.info/error-neurobiologico-dejar-fumar/)
 - [La diferencia real entre un tonto, un idiota y un imbécil](https://blog.marcosramirez.info/diferencia-tonto-idiota-imbecil/)
 - [Hispanos, no latinos: quién inventó la palabra y para qué](https://blog.marcosramirez.info/hispanos-no-latinos/)
 - [Ajedrez electrónico: qué tablero comprar según nivel y precio](https://blog.marcosramirez.info/ajedrez-electronico-que-tablero-comprar/)
 - [📰 Noticias y otras cosas interesantes &lpar;11 oct&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-10-11/)
-- [Mi gato me destrozó el dedo, y el culpable no fue mi gato](https://blog.marcosramirez.info/gato-ataxia-mordedura-dedo/)
 <!-- BLOGPOSTS:END -->
 
 ---
