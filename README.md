@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Aprende a programar desde cero: la serie de Fundamentos](https://blog.marcosramirez.info/serie-fundamentos-programacion/)
 - [Cómo convertí mi repo de skills en un marketplace de Claude Code](https://blog.marcosramirez.info/marketplace-plugins-claude-code/)
 - [senior-mindset: que Claude Code programe como un senior de verdad](https://blog.marcosramirez.info/senior-mindset-skill-claude-code/)
 - [El error neurobiológico que te hace fracasar al dejar de fumar](https://blog.marcosramirez.info/error-neurobiologico-dejar-fumar/)
 - [La diferencia real entre un tonto, un idiota y un imbécil](https://blog.marcosramirez.info/diferencia-tonto-idiota-imbecil/)
-- [Hispanos, no latinos: quién inventó la palabra y para qué](https://blog.marcosramirez.info/hispanos-no-latinos/)
 <!-- BLOGPOSTS:END -->
 
 ---
