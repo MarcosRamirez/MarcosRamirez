@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [📰 Noticias y otras cosas interesantes &lpar;18 oct&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-10-18/)
+- [Medir 1,97: los problemas de vivir a &lpar;casi&rpar; dos metros del suelo](https://blog.marcosramirez.info/medir-197-metros-problemas/)
 - [Aprende a programar desde cero: la serie de Fundamentos](https://blog.marcosramirez.info/serie-fundamentos-programacion/)
 - [Cómo convertí mi repo de skills en un marketplace de Claude Code](https://blog.marcosramirez.info/marketplace-plugins-claude-code/)
 - [senior-mindset: que Claude Code programe como un senior de verdad](https://blog.marcosramirez.info/senior-mindset-skill-claude-code/)
-- [El error neurobiológico que te hace fracasar al dejar de fumar](https://blog.marcosramirez.info/error-neurobiologico-dejar-fumar/)
-- [La diferencia real entre un tonto, un idiota y un imbécil](https://blog.marcosramirez.info/diferencia-tonto-idiota-imbecil/)
 <!-- BLOGPOSTS:END -->
 
 ---
