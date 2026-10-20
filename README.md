@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Programar con Inteligencia Artificial: ella escribe, yo pienso](https://blog.marcosramirez.info/como-programo-con-inteligencia-artificial/)
 - [📰 Noticias y otras cosas interesantes &lpar;18 oct&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-10-18/)
 - [Medir 1,97: los problemas de vivir a &lpar;casi&rpar; dos metros del suelo](https://blog.marcosramirez.info/medir-197-metros-problemas/)
 - [Aprende a programar desde cero: la serie de Fundamentos](https://blog.marcosramirez.info/serie-fundamentos-programacion/)
 - [Cómo convertí mi repo de skills en un marketplace de Claude Code](https://blog.marcosramirez.info/marketplace-plugins-claude-code/)
-- [senior-mindset: que Claude Code programe como un senior de verdad](https://blog.marcosramirez.info/senior-mindset-skill-claude-code/)
 <!-- BLOGPOSTS:END -->
 
 ---
