@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [¿Va a estallar la burbuja de la Inteligencia Artificial?](https://blog.marcosramirez.info/burbuja-inteligencia-artificial/)
 - [Aprender a programar hoy: el problema que nadie te cuenta](https://blog.marcosramirez.info/aprender-programar-problema-real/)
 - [Las mentiras de REA: no, clonar Photoshop no es tan fácil](https://blog.marcosramirez.info/las-mentiras-de-rea-clonar-software/)
 - [Scion vs Git: por qué Anthropic ha dejado Git en su monorepo](https://blog.marcosramirez.info/scion-anthropic-git-codigo-agentes/)
 - [Sin juniors hoy no hay seniors mañana: lo estamos haciendo mal](https://blog.marcosramirez.info/sin-juniors-no-hay-seniors/)
-- [Programar con Inteligencia Artificial: ella escribe, yo pienso](https://blog.marcosramirez.info/como-programo-con-inteligencia-artificial/)
 <!-- BLOGPOSTS:END -->
 
 ---
