@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Programas electorales del 29N: un partido al día, sin filtros](https://blog.marcosramirez.info/programas-electorales-29n/)
+- [📰 Noticias y otras cosas interesantes &lpar;25 oct&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-10-25/)
+- [SAP se queda sin soporte en 2027: qué hacer si dependes de él](https://blog.marcosramirez.info/sap-fin-soporte-2027/)
 - [¿Necesitas 128 GB de RAM para Inteligencia Artificial local?](https://blog.marcosramirez.info/128gb-ram-inteligencia-artificial-local/)
 - [Pensar como un programador: descomponer problemas y lógica](https://blog.marcosramirez.info/pensar-como-programador/)
-- [¿Va a estallar la burbuja de la Inteligencia Artificial?](https://blog.marcosramirez.info/burbuja-inteligencia-artificial/)
-- [Aprender a programar hoy: el problema que nadie te cuenta](https://blog.marcosramirez.info/aprender-programar-problema-real/)
-- [Las mentiras de REA: no, clonar Photoshop no es tan fácil](https://blog.marcosramirez.info/las-mentiras-de-rea-clonar-software/)
 <!-- BLOGPOSTS:END -->
 
 ---
