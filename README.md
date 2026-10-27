@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Waymo llega a Madrid: taxis sin conductor en 2027 &lpar;y Uber antes&rpar;](https://blog.marcosramirez.info/waymo-madrid-taxis-sin-conductor/)
+- [Variables y tipos de datos: dónde guarda todo un programa](https://blog.marcosramirez.info/variables-y-tipos-de-datos/)
+- [Crisis de la RAM: de la fábrica quemada de 1993 a la de 2026](https://blog.marcosramirez.info/crisis-ram-historia-precios-fabricas-quemadas/)
 - [Programas electorales del 29N: un partido al día, sin filtros](https://blog.marcosramirez.info/programas-electorales-29n/)
 - [📰 Noticias y otras cosas interesantes &lpar;25 oct&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-10-25/)
-- [SAP se queda sin soporte en 2027: qué hacer si dependes de él](https://blog.marcosramirez.info/sap-fin-soporte-2027/)
-- [¿Necesitas 128 GB de RAM para Inteligencia Artificial local?](https://blog.marcosramirez.info/128gb-ram-inteligencia-artificial-local/)
-- [Pensar como un programador: descomponer problemas y lógica](https://blog.marcosramirez.info/pensar-como-programador/)
 <!-- BLOGPOSTS:END -->
 
 ---
