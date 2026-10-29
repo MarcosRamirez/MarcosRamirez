@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Windows 11 con 8 GB de RAM: lo que ha prometido Microsoft](https://blog.marcosramirez.info/windows-11-8gb-ram-microsoft-optimizacion/)
+- [Operadores en programación: aritméticos, lógicos y de bits](https://blog.marcosramirez.info/operadores-en-programacion/)
+- [Ornith 1.0: el modelo abierto que dice igualar a Claude Opus](https://blog.marcosramirez.info/ornith-modelo-abierto-programar-opus/)
 - [No solo PHP: Node.js y Java también se parchean esta semana](https://blog.marcosramirez.info/node-java-parches-seguridad-octubre/)
 - [Claude Duet: el agente de Anthropic que te escribe él primero](https://blog.marcosramirez.info/claude-duet-agente-proactivo-anthropic/)
-- [PHP2Shell: los dos fallos críticos de PHP y cómo protegerte](https://blog.marcosramirez.info/php2shell-vulnerabilidad-php-actualizar/)
-- [Waymo llega a Madrid: taxis sin conductor en 2027 &lpar;y Uber antes&rpar;](https://blog.marcosramirez.info/waymo-madrid-taxis-sin-conductor/)
-- [Variables y tipos de datos: dónde guarda todo un programa](https://blog.marcosramirez.info/variables-y-tipos-de-datos/)
 <!-- BLOGPOSTS:END -->
 
 ---
