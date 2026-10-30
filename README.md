@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [El truco de comprar un Android de 10 años: almacenamiento gratis](https://blog.marcosramirez.info/android-viejos-almacenamiento-gratis/)
+- [El fallo de los routers de Movistar y Orange: qué hacer hoy](https://blog.marcosramirez.info/routers-movistar-orange-fallo-broadcom-wps/)
+- [El marketing del miedo: por qué debería estar prohibido ya](https://blog.marcosramirez.info/marketing-del-miedo/)
 - [Windows 11 con 8 GB de RAM: lo que ha prometido Microsoft](https://blog.marcosramirez.info/windows-11-8gb-ram-microsoft-optimizacion/)
 - [Operadores en programación: aritméticos, lógicos y de bits](https://blog.marcosramirez.info/operadores-en-programacion/)
-- [Ornith 1.0: el modelo abierto que dice igualar a Claude Opus](https://blog.marcosramirez.info/ornith-modelo-abierto-programar-opus/)
-- [No solo PHP: Node.js y Java también se parchean esta semana](https://blog.marcosramirez.info/node-java-parches-seguridad-octubre/)
-- [Claude Duet: el agente de Anthropic que te escribe él primero](https://blog.marcosramirez.info/claude-duet-agente-proactivo-anthropic/)
 <!-- BLOGPOSTS:END -->
 
 ---
