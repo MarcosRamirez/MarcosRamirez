@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Jugar gratis a PC Fútbol y PC Basket clásicos en el navegador](https://blog.marcosramirez.info/jugar-pc-futbol-pc-basket-navegador/)
+- [Preparacionismo sin paranoia: soy precavido, no un prepper](https://blog.marcosramirez.info/serie-de-preparacionismo/)
+- [📰 Noticias y otras cosas interesantes &lpar;1 nov&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-11-01/)
 - [Serie Ergonomía: monta un puesto que no te destroce el cuerpo](https://blog.marcosramirez.info/serie-de-ergonomia/)
 - [Condicionales en programación: if, else y switch desde cero](https://blog.marcosramirez.info/condicionales-if-else/)
-- [Keepa y sus permisos: qué pidió, qué pide hoy y cómo mirarlo](https://blog.marcosramirez.info/keepa-permisos-extension-como-comprobar/)
-- [El truco de comprar un Android de 10 años: almacenamiento gratis](https://blog.marcosramirez.info/android-viejos-almacenamiento-gratis/)
-- [El fallo de los routers de Movistar y Orange: qué hacer hoy](https://blog.marcosramirez.info/routers-movistar-orange-fallo-broadcom-wps/)
 <!-- BLOGPOSTS:END -->
 
 ---
