@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Los bloqueos de LaLiga esta semana &lpar;26 octubre-1 noviembre&rpar;](https://blog.marcosramirez.info/bloqueos-semana-26-octubre-1-noviembre/)
+- [La odisea del puente: bloqueos de LaLiga, failover y Jellyfin](https://blog.marcosramirez.info/odisea-del-puente-bloqueos-failover/)
+- [Bucles en programación: for, while y do-while desde cero](https://blog.marcosramirez.info/bucles-for-while/)
+- [¿Volveremos a optimizar? La crisis de la RAM y el software](https://blog.marcosramirez.info/optimizar-software-epic-launcher-vibe-coding/)
 - [Jugar gratis a PC Fútbol y PC Basket clásicos en el navegador](https://blog.marcosramirez.info/jugar-pc-futbol-pc-basket-navegador/)
-- [Preparacionismo sin paranoia: soy precavido, no un prepper](https://blog.marcosramirez.info/serie-de-preparacionismo/)
-- [📰 Noticias y otras cosas interesantes &lpar;1 nov&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-11-01/)
-- [Serie Ergonomía: monta un puesto que no te destroce el cuerpo](https://blog.marcosramirez.info/serie-de-ergonomia/)
-- [Condicionales en programación: if, else y switch desde cero](https://blog.marcosramirez.info/condicionales-if-else/)
 <!-- BLOGPOSTS:END -->
 
 ---
