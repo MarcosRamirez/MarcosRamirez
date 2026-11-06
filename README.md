@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Programa electoral de Vox en el 29N: qué propone Abascal](https://blog.marcosramirez.info/programa-electoral-vox-29n/)
 - [Sillas ergonómicas 2026: la guía definitiva para no comprar mal](https://blog.marcosramirez.info/sillas-ergonomicas-guia-compra-2026/)
 - [Las funciones en programación: parámetros, retorno y scope](https://blog.marcosramirez.info/funciones-parametros-scope/)
 - [Programa electoral del PSOE en el 29N: qué propone Sánchez](https://blog.marcosramirez.info/programa-electoral-psoe-29n/)
 - [Programa electoral del PP en el 29N: qué propone Feijóo](https://blog.marcosramirez.info/programa-electoral-pp-29n/)
-- [Los bloqueos de LaLiga esta semana &lpar;26 octubre-1 noviembre&rpar;](https://blog.marcosramirez.info/bloqueos-semana-26-octubre-1-noviembre/)
 <!-- BLOGPOSTS:END -->
 
 ---
