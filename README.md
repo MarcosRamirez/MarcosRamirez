@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Cómo ver YouTube sin anuncios con tu propio VPN en Home Lab](https://blog.marcosramirez.info/youtube-sin-anuncios-vpn/)
+- [Listas y diccionarios: estructuras de datos para empezar](https://blog.marcosramirez.info/listas-y-diccionarios/)
+- [Programa electoral del Frente Amplio en el 29N: qué propone](https://blog.marcosramirez.info/programa-electoral-frente-amplio-29n/)
 - [Programa electoral de Vox en el 29N: qué propone Abascal](https://blog.marcosramirez.info/programa-electoral-vox-29n/)
 - [Sillas ergonómicas 2026: la guía definitiva para no comprar mal](https://blog.marcosramirez.info/sillas-ergonomicas-guia-compra-2026/)
-- [Las funciones en programación: parámetros, retorno y scope](https://blog.marcosramirez.info/funciones-parametros-scope/)
-- [Programa electoral del PSOE en el 29N: qué propone Sánchez](https://blog.marcosramirez.info/programa-electoral-psoe-29n/)
-- [Programa electoral del PP en el 29N: qué propone Feijóo](https://blog.marcosramirez.info/programa-electoral-pp-29n/)
 <!-- BLOGPOSTS:END -->
 
 ---
