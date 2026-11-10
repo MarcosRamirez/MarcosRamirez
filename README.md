@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Errores y depuración: aprende a arreglar tu propio código](https://blog.marcosramirez.info/errores-y-debugging/)
+- [Programa electoral de ERC para el 29N: qué propone y cómo lo paga](https://blog.marcosramirez.info/programa-electoral-erc-29n/)
+- [Los bloqueos de LaLiga esta semana &lpar;2-8 noviembre 2026&rpar;](https://blog.marcosramirez.info/bloqueos-semana-2026-11-02/)
 - [Dinero fiduciario: así se manipula el sistema monetario mundial](https://blog.marcosramirez.info/dinero-fiduciario-manipulacion-monetaria/)
 - [🎒 EDC Urbano: 32 cosas que llevo siempre encima &lpar;y por qué&rpar;](https://blog.marcosramirez.info/edc-urbano-que-llevar-siempre/)
-- [📰 Noticias y otras cosas interesantes &lpar;8 nov 2026&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-11-08/)
-- [Silla ergonómica: cómo sentarte sin destrozarte la espalda](https://blog.marcosramirez.info/silla-ergonomica-oficina/)
-- [Cómo ver YouTube sin anuncios con tu propio VPN en Home Lab](https://blog.marcosramirez.info/youtube-sin-anuncios-vpn/)
 <!-- BLOGPOSTS:END -->
 
 ---
