@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Apuestas combinadas: la mentira matemática que te cuesta dinero](https://blog.marcosramirez.info/apuestas-combinadas-mentira-matematica/)
+- [Algoritmos desde cero: del bubble sort a A*, toda la serie](https://blog.marcosramirez.info/serie-de-algoritmos/)
+- [Programa electoral de EH Bildu para el 29N: qué propone y cómo](https://blog.marcosramirez.info/programa-electoral-eh-bildu-29n/)
 - [Klarna: el banco real que se disfraza de simple app de pago](https://blog.marcosramirez.info/klarna-buy-now-pay-later-deuda/)
 - [Programa electoral de Junts para el 29N: propuestas y su coste](https://blog.marcosramirez.info/programa-electoral-junts-29n/)
-- [Errores y depuración: aprende a arreglar tu propio código](https://blog.marcosramirez.info/errores-y-debugging/)
-- [Programa electoral de ERC para el 29N: qué propone y cómo lo paga](https://blog.marcosramirez.info/programa-electoral-erc-29n/)
-- [Los bloqueos de LaLiga esta semana &lpar;2-8 noviembre 2026&rpar;](https://blog.marcosramirez.info/bloqueos-semana-2026-11-02/)
 <!-- BLOGPOSTS:END -->
 
 ---
