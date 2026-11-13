@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Android se cierra en 2026: le metí Linux de verdad a un móvil](https://blog.marcosramirez.info/android-se-cierra-linux-movil/)
+- [Programa electoral del PNV para el 29N: propuestas y financiación](https://blog.marcosramirez.info/programa-electoral-pnv-29n/)
 - [Apuestas combinadas: la mentira matemática que te cuesta dinero](https://blog.marcosramirez.info/apuestas-combinadas-mentira-matematica/)
 - [Algoritmos desde cero: del bubble sort a A*, toda la serie](https://blog.marcosramirez.info/serie-de-algoritmos/)
 - [Programa electoral de EH Bildu para el 29N: qué propone y cómo](https://blog.marcosramirez.info/programa-electoral-eh-bildu-29n/)
-- [Klarna: el banco real que se disfraza de simple app de pago](https://blog.marcosramirez.info/klarna-buy-now-pay-later-deuda/)
-- [Programa electoral de Junts para el 29N: propuestas y su coste](https://blog.marcosramirez.info/programa-electoral-junts-29n/)
 <!-- BLOGPOSTS:END -->
 
 ---
