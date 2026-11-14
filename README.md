@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Qué es un algoritmo y la notación Big-O explicada paso a paso](https://blog.marcosramirez.info/complejidad-algoritmica-big-o/)
+- [Programa electoral del BNG para el 29N: qué propone y su coste](https://blog.marcosramirez.info/programa-electoral-bng-29n/)
 - [Android se cierra en 2026: le metí Linux de verdad a un móvil](https://blog.marcosramirez.info/android-se-cierra-linux-movil/)
 - [Programa electoral del PNV para el 29N: propuestas y financiación](https://blog.marcosramirez.info/programa-electoral-pnv-29n/)
 - [Apuestas combinadas: la mentira matemática que te cuesta dinero](https://blog.marcosramirez.info/apuestas-combinadas-mentira-matematica/)
-- [Algoritmos desde cero: del bubble sort a A*, toda la serie](https://blog.marcosramirez.info/serie-de-algoritmos/)
-- [Programa electoral de EH Bildu para el 29N: qué propone y cómo](https://blog.marcosramirez.info/programa-electoral-eh-bildu-29n/)
 <!-- BLOGPOSTS:END -->
 
 ---
