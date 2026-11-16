@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Pueblos que buscan familias: ¿te mudarías a la España vaciada?](https://blog.marcosramirez.info/pueblos-buscan-familias-espana-vaciada/)
+- [🚨 Mochila de emergencia: qué llevar para un apagón o una DANA](https://blog.marcosramirez.info/mochila-de-emergencia/)
+- [📰 Noticias y otras cosas interesantes &lpar;15 nov 2026&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-11-15/)
 - [Escritorio de trabajo: altura correcta y de pie o sentado](https://blog.marcosramirez.info/escritorio-elevable-altura/)
 - [Qué es un algoritmo y la notación Big-O explicada paso a paso](https://blog.marcosramirez.info/complejidad-algoritmica-big-o/)
-- [Programa electoral del BNG para el 29N: qué propone y su coste](https://blog.marcosramirez.info/programa-electoral-bng-29n/)
-- [Android se cierra en 2026: le metí Linux de verdad a un móvil](https://blog.marcosramirez.info/android-se-cierra-linux-movil/)
-- [Programa electoral del PNV para el 29N: propuestas y financiación](https://blog.marcosramirez.info/programa-electoral-pnv-29n/)
 <!-- BLOGPOSTS:END -->
 
 ---
