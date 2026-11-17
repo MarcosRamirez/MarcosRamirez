@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Qué es un UUID y en qué se diferencian sus versiones &lpar;v1-v8&rpar;](https://blog.marcosramirez.info/que-es-uuid-versiones/)
+- [Búsqueda lineal vs binaria: el poder de partir por la mitad](https://blog.marcosramirez.info/busqueda-lineal-y-binaria/)
+- [Programa electoral de Coalición Canaria para el 29N y su coste](https://blog.marcosramirez.info/programa-electoral-coalicion-canaria-29n/)
 - [Pueblos que buscan familias: ¿te mudarías a la España vaciada?](https://blog.marcosramirez.info/pueblos-buscan-familias-espana-vaciada/)
 - [🚨 Mochila de emergencia: qué llevar para un apagón o una DANA](https://blog.marcosramirez.info/mochila-de-emergencia/)
-- [📰 Noticias y otras cosas interesantes &lpar;15 nov 2026&rpar;](https://blog.marcosramirez.info/recopilacion-semanal-noticias-2026-11-15/)
-- [Escritorio de trabajo: altura correcta y de pie o sentado](https://blog.marcosramirez.info/escritorio-elevable-altura/)
-- [Qué es un algoritmo y la notación Big-O explicada paso a paso](https://blog.marcosramirez.info/complejidad-algoritmica-big-o/)
 <!-- BLOGPOSTS:END -->
 
 ---
