@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Dibujar España con círculos: la serie de Fourier explicada](https://blog.marcosramirez.info/dibujar-espana-con-circulos-fourier/)
+- [Programa electoral de UPN para el 29N: qué propone y su coste](https://blog.marcosramirez.info/programa-electoral-upn-29n/)
 - [Qué es un UUID y en qué se diferencian sus versiones &lpar;v1-v8&rpar;](https://blog.marcosramirez.info/que-es-uuid-versiones/)
 - [Búsqueda lineal vs binaria: el poder de partir por la mitad](https://blog.marcosramirez.info/busqueda-lineal-y-binaria/)
 - [Programa electoral de Coalición Canaria para el 29N y su coste](https://blog.marcosramirez.info/programa-electoral-coalicion-canaria-29n/)
-- [Pueblos que buscan familias: ¿te mudarías a la España vaciada?](https://blog.marcosramirez.info/pueblos-buscan-familias-espana-vaciada/)
-- [🚨 Mochila de emergencia: qué llevar para un apagón o una DANA](https://blog.marcosramirez.info/mochila-de-emergencia/)
 <!-- BLOGPOSTS:END -->
 
 ---
