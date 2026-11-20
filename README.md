@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Programa electoral de SALF para el 29N: qué propone y su coste](https://blog.marcosramirez.info/programa-electoral-salf-29n/)
 - [Ordenamiento sencillo: bubble, selection e insertion sort](https://blog.marcosramirez.info/ordenamiento-burbuja-seleccion-insercion/)
 - [Programa electoral de Podemos en el 29N: qué propone Montero](https://blog.marcosramirez.info/programa-electoral-podemos-29n/)
 - [Dibujar España con círculos: la serie de Fourier explicada](https://blog.marcosramirez.info/dibujar-espana-con-circulos-fourier/)
 - [Programa electoral de UPN para el 29N: qué propone y su coste](https://blog.marcosramirez.info/programa-electoral-upn-29n/)
-- [Qué es un UUID y en qué se diferencian sus versiones &lpar;v1-v8&rpar;](https://blog.marcosramirez.info/que-es-uuid-versiones/)
 <!-- BLOGPOSTS:END -->
 
 ---
