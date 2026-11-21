@@ -67,11 +67,11 @@
 ## 📝 Últimos artículos / Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
+- [Merge sort y quick sort: ordenar de verdad en O&lpar;n log n&rpar;](https://blog.marcosramirez.info/merge-sort-y-quick-sort/)
+- [Programa electoral de Compromís para el 29N: qué propone](https://blog.marcosramirez.info/programa-electoral-compromis-29n/)
 - [Programa electoral de SALF para el 29N: qué propone y su coste](https://blog.marcosramirez.info/programa-electoral-salf-29n/)
 - [Ordenamiento sencillo: bubble, selection e insertion sort](https://blog.marcosramirez.info/ordenamiento-burbuja-seleccion-insercion/)
 - [Programa electoral de Podemos en el 29N: qué propone Montero](https://blog.marcosramirez.info/programa-electoral-podemos-29n/)
-- [Dibujar España con círculos: la serie de Fourier explicada](https://blog.marcosramirez.info/dibujar-espana-con-circulos-fourier/)
-- [Programa electoral de UPN para el 29N: qué propone y su coste](https://blog.marcosramirez.info/programa-electoral-upn-29n/)
 <!-- BLOGPOSTS:END -->
 
 ---
